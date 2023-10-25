@@ -130,3 +130,14 @@
     font-style: normal;
 
 }
+
+
+
+
+@font-face {
+    font-family: 'vinqueregular2';
+    src: url('vinque.rg-regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+
+}
