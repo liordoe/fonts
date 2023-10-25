@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'adlery_problockletter';
-    src: url('adlery-pro-blockletter-trial-webfont.woff2') format('woff2'), url('Adlery-Pro-Blockletter-trial.ttf') format('truetype');
+    src: url('Adlery-Pro-Blockletter-trial.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
@@ -15,7 +15,7 @@
 
 @font-face {
     font-family: 'adlery_proregular';
-    src: url('adlery-pro-trial-webfont.woff2') format('woff2'), url('Adlery-Pro-trial.ttf') format('truetype');
+    src: url('Adlery-Pro-trial.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
@@ -26,7 +26,7 @@
 
 @font-face {
     font-family: 'adlery_proswash';
-    src: url('adlery-swash-trial-webfont.woff2') format('woff2'), url('Adlery-Swash-trial.ttf') format('truetype');
+    src: url('Adlery-Swash-trial.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
@@ -126,6 +126,50 @@
 @font-face {
     font-family: 'vinqueregular';
     src: url('vinque.rg-regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'vinquerg';
+    src: url('vinque rg.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ruteniaaksidenta';
+    src: url('RuteniaAkcidenta-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'cyrillic_beauty';
+    src: url('Peter_Ivanovitsch.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'vinqueregular';
+    src: url('Germanica.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
