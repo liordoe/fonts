@@ -125,7 +125,7 @@
 
 @font-face {
     font-family: 'vinqueregular';
-    src: url('vinque.rg-regular-webfont.woff2') format('woff2'), url('vinque.rg-regular.otf') format('opentype');
+    src: url('vinque.rg-regular-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
