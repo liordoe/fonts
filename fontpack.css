@@ -114,7 +114,7 @@
 
 @font-face {
     font-family: 'porspican_serifregular';
-    src: url('porspican-serif.regular-webfont.woff2') format('woff2');
+    src: url('porspican-serif.regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 
@@ -125,17 +125,6 @@
 
 @font-face {
     font-family: 'vinqueregular';
-    src: url('vinque.rg-regular-webfont.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'vinqueregular2';
     src: url('vinque.rg-regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
